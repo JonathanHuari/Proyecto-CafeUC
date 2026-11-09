@@ -1,1 +1,1 @@
-Proyecto de Reservas
+Proyecto de Cafetería
